@@ -4,4 +4,4 @@
 
 ### 目次
 
-* [gitの使い方](/git.md)
+* [gitの使い方](/git_intro/git.md)
